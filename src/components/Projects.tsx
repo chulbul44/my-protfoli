@@ -29,6 +29,22 @@ const projectsList = [
     github: "https://github.com",
     live: "https://example.com",
   },
+  {
+    title: "Mr. Coder",
+    description: "An interactive, gamified e-learning and online compiler platform. Features interactive coding lessons, code challenges with automated test runner evaluation, and a custom multiplayer code arena.",
+    image: "/project_mrcoder.png",
+    tags: ["React.js", "Monaco Editor", "Node.js", "Express", "Docker"],
+    github: "https://github.com",
+    live: "https://example.com",
+  },
+  {
+    title: "Luxe E-Commerce",
+    description: "A premium high-end e-commerce platform. Implemented advanced checkout systems, user authentication flows, custom cart states, and highly optimized responsive interfaces.",
+    image: "/project_luxe.png",
+    tags: ["Next.js", "Redux Toolkit", "Stripe API", "Tailwind CSS", "Express"],
+    github: "https://github.com",
+    live: "https://example.com",
+  },
 ];
 
 export default function Projects() {
