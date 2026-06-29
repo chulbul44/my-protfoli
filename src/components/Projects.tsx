@@ -6,28 +6,12 @@ import styles from "./Projects.module.css";
 
 const projectsList = [
   {
-    title: "DevAnalytics SaaS",
-    description: "A comprehensive developer analytics SaaS dashboard. Features live graph tracking, repository health scoring, and team productivity logs using real-time API sync.",
-    image: "/project_saas.png",
-    tags: ["Next.js", "TypeScript", "GraphQL", "Chart.js"],
+    title: "Kolam Art Studio",
+    description: "An interactive heritage and mathematics-focused platform for designing, analyzing, and generating traditional Indian Kolam patterns. Built for IKS Heritage & Culture (AICTE Problem Statement 25107).",
+    image: "/project_kolam.png",
+    tags: ["React.js", "Flask", "Python", "Mathematical Analysis"],
     github: "https://github.com",
-    live: "https://example.com",
-  },
-  {
-    title: "ArtCrypto Web3",
-    description: "A premium NFT digital art marketplace client interface. Built with web3 provider connections, custom smart contracts integration, and dynamic grid layouts.",
-    image: "/project_web3.png",
-    tags: ["React", "Solidity", "ethers.js", "Web3"],
-    github: "https://github.com",
-    live: "https://example.com",
-  },
-  {
-    title: "CollabFlow Portal",
-    description: "A real-time team collaboration kanban dashboard. Integrates drag-and-drop mechanics, interactive user status indicators, and background task sync.",
-    image: "/project_collaboration.png",
-    tags: ["React.js", "Node.js", "WebSockets", "MongoDB"],
-    github: "https://github.com",
-    live: "https://example.com",
+    live: "http://localhost:3001",
   },
   {
     title: "Mr. Coder",

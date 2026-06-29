@@ -11,16 +11,16 @@ const experiences = [
     description: "Designed and engineered 'Luxe', a premium high-end e-commerce platform. Implemented advanced checkout systems, user authentication flows, custom cart states, and highly optimized responsive interfaces.",
   },
   {
+    role: "Full Stack Developer / Algorithm Engineer",
+    company: "Kolam Art Studio",
+    period: "2025",
+    description: "Engineered a heritage-focused platform to design, analyze, and generate Indian Kolam patterns. Implemented Python/Flask mathematical engines for symmetry and fractal analysis alongside an interactive React frontend for AICTE IKS Problem Statement 25107.",
+  },
+  {
     role: "Full Stack Web Developer",
     company: "Coder Gali",
     period: "2025",
     description: "Designed and developed high-performance websites using Next.js, React, and modern frameworks. Worked on client projects focusing on clean, scalable code, SEO optimization, and fast delivery.",
-  },
-  {
-    role: "Frontend Engineer",
-    company: "Creative Web Studio",
-    period: "2022 - 2024",
-    description: "Designed and engineered interactive e-commerce and portfolio websites. Worked closely with design teams to translate Figma mockups into pixel-perfect, responsive React modules.",
   },
 ];
 

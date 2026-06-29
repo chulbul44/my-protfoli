@@ -44,7 +44,7 @@ export default function Footer() {
       <div className={`${styles.container} container`}>
         <div className={styles.top}>
           <a href="#home" className={styles.logo}>
-            CP<span className={styles.dot}>.</span>
+            CK<span className={styles.dot}>.</span>
           </a>
 
           <div className={styles.links}>

@@ -36,7 +36,7 @@ export default function Navbar() {
     <nav className={`${styles.navbar} ${isScrolled ? styles.scrolled : ""}`}>
       <div className={styles.container}>
         <a href="#home" className={styles.logo}>
-          CP<span className={styles.dot}>.</span>
+          CK<span className={styles.dot}>.</span>
         </a>
 
         {/* Desktop Menu */}
